@@ -14,7 +14,7 @@
 
 <table align="center">
 <tr>
-<td align="center"><strong>13+</strong><br><sub>Public projects</sub></td>
+<td align="center"><strong>14+</strong><br><sub>Public projects</sub></td>
 <td align="center"><strong>2026</strong><br><sub>B.Tech graduation</sub></td>
 <td align="center"><strong>Full-stack</strong><br><sub>Product focus</sub></td>
 <td align="center"><strong>AI + Web</strong><br><sub>Current direction</sub></td>
@@ -23,12 +23,9 @@
 
 <div align="center">
 
-<a href="https://github.com/Ankit24072002"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=0F766E&center=true&vCenter=true&width=600&lines=Building+full-stack+products;Exploring+local-first+AI;Turning+problems+into+working+software" alt="Typing introduction"></a>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ankit24072002&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=0f766e&text_color=475569&icon_color=155e75" height="165" alt="GitHub activity statistics">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit24072002&layout=compact&hide_border=true&bg_color=00000000&title_color=0f766e&text_color=475569" height="165" alt="Most used languages">
+<a href="https://github.com/Ankit24072002?tab=repositories"><img src="https://img.shields.io/badge/14%2B%20PROJECTS-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="14 plus projects"></a>
+<a href="https://github.com/Ankit24072002/ai-rag-knowledge-assistant"><img src="https://img.shields.io/badge/ACTIVE%20AI%20WORK-155e75?style=for-the-badge&logo=openai&logoColor=white" alt="Active AI work"></a>
+<a href="https://github.com/Ankit24072002?tab=overview"><img src="https://img.shields.io/badge/BUILDING%20IN%20PUBLIC-334155?style=for-the-badge&logo=github&logoColor=white" alt="Building in public"></a>
 
 </div>
 
@@ -154,6 +151,19 @@ Animated portfolio experience featuring projects, education, skills, theme suppo
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### JobPilot.AI · Final-Year Project
+
+**A career intelligence platform for the job search journey.** JobPilot matches opportunities, helps optimize resumes, parses documents, and delivers AI-powered career insights through a focused product experience.
+
+`React` `Vite` `Tailwind CSS` `Node.js` `Express` `MongoDB` `JWT` `Multer`
+
+<a href="https://jobpilot-livid-omega.vercel.app/">Live demo</a> · <a href="https://github.com/JOB-PILOT-AI/JobPilot-AI">Source -></a>
+
+</td>
+</tr>
 </table>
 
 ## Project Wall
@@ -163,6 +173,7 @@ Every public project has a place here. The collection shows my progression acros
 | Project | What it represents | Language | Link |
 | --- | --- | --- | --- |
 | **FraudShield** | Fraud detection and analysis project | JavaScript / Python | [Open](https://github.com/Ankit24072002/FraudShield) |
+| **JobPilot.AI** | Final-year career intelligence platform with job matching and resume optimization | JavaScript | [Live demo](https://jobpilot-livid-omega.vercel.app/) · [Source](https://github.com/JOB-PILOT-AI/JobPilot-AI) |
 | **Loan Eligibility Checker** | Loan eligibility evaluation workflow | JavaScript | [Open](https://github.com/Ankit24072002/loan-eligibility-checker) |
 | **Stock Portfolio** | Stock portfolio application | JavaScript | [Open](https://github.com/Ankit24072002/stock_portfolio) |
 | **Event Management Dashboard** | Dashboard experience for event operations | JavaScript | [Open](https://github.com/Ankit24072002/Event_managementDashboard) |
@@ -201,6 +212,7 @@ I am open to software development internships, entry-level software engineering 
 
 <a href="mailto:kumaranikant24@gmail.com"><img src="https://img.shields.io/badge/Email-kumaranikant24%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://drive.google.com/file/d/1l_xIWaEO0RbFKZcAIqoJBo_55HbjMRU2/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-Download-0A66C2?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume"></a>
+<a href="https://www.linkedin.com/in/ankit-kumar-singh-905109319"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/Ankit24072002"><img src="https://img.shields.io/badge/GitHub-Ankit24072002-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 
 <br><br>
