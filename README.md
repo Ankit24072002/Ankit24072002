@@ -1,117 +1,139 @@
 <div align="center">
 
-# Ankit Kumar Singh
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:155e75,100:0f766e&height=180&section=header&text=Ankit%20Kumar%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20Builder%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18" alt="Ankit Kumar Singh header">
 
-### Software Developer building useful products with code, data, and AI
+<p><strong>I turn ideas into useful interfaces, reliable APIs, and intelligent workflows.</strong></p>
 
-I design and ship full-stack web applications, backend APIs, and practical AI workflows.
-
-<p>
-  <a href="https://github.com/Ankit24072002"><img src="https://img.shields.io/badge/GitHub-View%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="mailto:kumaranikant24@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://drive.google.com/file/d/1l_xIWaEO0RbFKZcAIqoJBo_55HbjMRU2/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-Read%20my%20resume-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
-</p>
+<a href="https://github.com/Ankit24072002"><img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"></a>
+<a href="mailto:kumaranikant24@gmail.com"><img src="https://img.shields.io/badge/LET'S%20CONNECT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"></a>
+<a href="https://drive.google.com/file/d/1l_xIWaEO0RbFKZcAIqoJBo_55HbjMRU2/view?usp=drive_link"><img src="https://img.shields.io/badge/VIEW%20RESUME-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View resume"></a>
 
 </div>
 
-## The Short Version
+<br>
 
-I am a B.Tech Computer Science and Engineering student graduating in 2026, with a strong interest in full-stack development and applied AI. I enjoy taking an idea from a clean interface to a working backend, persistent data model, and deployable product.
+<table align="center">
+<tr>
+<td align="center"><strong>13+</strong><br><sub>Public projects</sub></td>
+<td align="center"><strong>2026</strong><br><sub>B.Tech graduation</sub></td>
+<td align="center"><strong>Full-stack</strong><br><sub>Product focus</sub></td>
+<td align="center"><strong>AI + Web</strong><br><sub>Current direction</sub></td>
+</tr>
+</table>
 
-My work combines React, Node.js, databases, authentication, real-time workflows, document intelligence, semantic retrieval, and local LLM inference. I care about software that is understandable, useful, and built with the end user in mind.
+## About Me
 
-## At A Glance
+I am a B.Tech Computer Science and Engineering student graduating in 2026, focused on building polished full-stack applications and practical AI products. I enjoy taking a problem from an initial idea to a responsive interface, working backend, persistent data model, and deployable experience.
 
-| Focus | Current direction |
+My work spans React, Node.js, Express, databases, authentication, real-time systems, document intelligence, semantic retrieval, and local LLM inference. I value clear thinking, useful features, and software that people can actually rely on.
+
+## My Toolkit
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,cs,mongodb,postgres,docker,git,github,tailwind" alt="Technology icons">
+
+</div>
+
+| Layer | Technologies |
 | --- | --- |
-| Building | Full-stack products and AI-enabled applications |
-| Strengths | JavaScript, React, Node.js, Express, MongoDB, PostgreSQL |
-| Exploring | RAG pipelines, embeddings, Qdrant, Ollama, system design |
-| Looking for | Software internships, entry-level roles, and meaningful collaborations |
-| Based in | West Bengal, India |
+| Frontend | React, Vite, Tailwind CSS, Bootstrap, Framer Motion |
+| Backend | Node.js, Express.js, REST APIs, JWT authentication |
+| Data | MongoDB, Mongoose, PostgreSQL, Qdrant |
+| AI | Ollama, embeddings, RAG, semantic retrieval, document processing |
+| Delivery | Git, GitHub, Docker, Docker Compose, Vercel, Render |
 
-## Technology I Work With
+## Featured Builds
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C Sharp">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Frontend:** React, Vite, Tailwind CSS, Bootstrap, Framer Motion<br>
-**Backend:** Node.js, Express.js, REST APIs, JWT authentication<br>
-**Data and AI:** MongoDB, Mongoose, PostgreSQL, Qdrant, Ollama, embeddings, RAG<br>
-**Deployment:** Docker, Docker Compose, Vercel, Render
+### AI RAG Knowledge Assistant
 
-## Featured Work
-
-### 01 / AI RAG Knowledge Assistant
-
-**A private, local-first document intelligence workflow.** Upload PDFs or text files, extract and chunk content, generate embeddings, retrieve relevant context, and ask grounded questions. The project also supports screenshot-based visual questions through local AI models.
+Private, local-first document intelligence for PDF/TXT ingestion, embeddings, semantic retrieval, grounded Q&A, and screenshot analysis.
 
 `React` `Node.js` `MongoDB` `Qdrant` `Ollama` `Docker`
 
-[Explore the project](https://github.com/Ankit24072002/ai-rag-knowledge-assistant)
+<a href="https://github.com/Ankit24072002/ai-rag-knowledge-assistant">View project -></a>
 
-### 02 / Ocean Hazard Platform
+</td>
+<td width="50%" valign="top">
 
-**A real-time platform for reporting and verifying ocean hazards.** It combines geotagged reports, interactive maps, AI classification, credibility scoring, JWT authentication, role-based verification, and live updates.
+### Ocean Hazard Platform
+
+Real-time hazard reporting with geotagged reports, interactive maps, AI classification, credibility scoring, verification, and live updates.
 
 `React` `Node.js` `PostgreSQL` `Leaflet` `Docker`
 
-[View live demo](https://ocean-hazard-platform.vercel.app) · [Explore the project](https://github.com/Ankit24072002/ocean-hazard-platform)
+<a href="https://ocean-hazard-platform.vercel.app">Live demo</a> · <a href="https://github.com/Ankit24072002/ocean-hazard-platform">Source -></a>
 
-### 03 / Mutual Fund Tracker
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**A full-stack financial research experience.** Users can search mutual funds, inspect fund details, authenticate securely, and save funds for later through a responsive web application.
+### Mutual Fund Tracker
+
+Financial research app for searching mutual funds, viewing details, secure authentication, and saving funds for later.
 
 `React` `Node.js` `Express` `MongoDB` `JWT`
 
-[View live demo](https://mutual-fund-tracker-2-iqzm.onrender.com) · [Explore the project](https://github.com/Ankit24072002/mutual-fund-tracker)
+<a href="https://mutual-fund-tracker-2-iqzm.onrender.com">Live demo</a> · <a href="https://github.com/Ankit24072002/mutual-fund-tracker">Source -></a>
 
-### 04 / Personal Portfolio
+</td>
+<td width="50%" valign="top">
 
-**A responsive portfolio experience built to communicate skills and work clearly.** Includes animated transitions, project and education sections, theme support, and resume access.
+### Personal Portfolio
 
-`React` `Tailwind CSS` `Framer Motion` `React Router`
+Animated portfolio experience featuring projects, education, skills, theme support, responsive layouts, and resume access.
 
-[View live demo](https://self-portfolio-if15.onrender.com) · [Explore the project](https://github.com/Ankit24072002/self_portfolio)
+`React` `Tailwind CSS` `Framer Motion`
 
-### 05 / FraudShield
+<a href="https://self-portfolio-if15.onrender.com">Live demo</a> · <a href="https://github.com/Ankit24072002/self_portfolio">Source -></a>
 
-**A fraud detection project combining JavaScript and Python-based analysis.**
+</td>
+</tr>
+</table>
 
-[Explore the project](https://github.com/Ankit24072002/FraudShield)
+## Project Wall
+
+Every public project has a place here. The collection shows my progression across interfaces, APIs, finance, communication, dashboards, AI, and developer tooling.
+
+| Project | What it represents | Language | Link |
+| --- | --- | --- | --- |
+| **FraudShield** | Fraud detection and analysis project | JavaScript / Python | [Open](https://github.com/Ankit24072002/FraudShield) |
+| **Loan Eligibility Checker** | Loan eligibility evaluation workflow | JavaScript | [Open](https://github.com/Ankit24072002/loan-eligibility-checker) |
+| **Stock Portfolio** | Stock portfolio application | JavaScript | [Open](https://github.com/Ankit24072002/stock_portfolio) |
+| **Event Management Dashboard** | Dashboard experience for event operations | JavaScript | [Open](https://github.com/Ankit24072002/Event_managementDashboard) |
+| **apna_Gpt** | AI chat application experiment | JavaScript | [Open](https://github.com/Ankit24072002/apna_Gpt) |
+| **vdo_calling** | Browser-based video calling project | JavaScript | [Open](https://github.com/Ankit24072002/vdo_calling) |
+| **XTSApiClient** | API client implementation | C# | [Open](https://github.com/Ankit24072002/XTSApiClient) |
+| **Chakra** | Frontend web project | HTML | [Open](https://github.com/Ankit24072002/Chakra) |
+| **25300122024** | JavaScript application project | JavaScript | [Open](https://github.com/Ankit24072002/25300122024) |
 
 ## Education
 
 **Bachelor of Technology in Computer Science and Engineering**  
 Expected graduation: 2026
 
-## What I Am Learning Next
+## What I Am Exploring
 
-- Production-grade AI applications and retrieval pipelines
-- Scalable backend architecture and system design
-- Cloud deployment, observability, and software quality practices
+`Production AI` `RAG pipelines` `System design` `Scalable backends` `Cloud deployment` `Software quality`
 
-## Let Us Build Something Useful
+## Open To Opportunities
 
-I am open to software development internships, entry-level software engineering roles, and collaborative projects involving full-stack development, backend engineering, or applied AI.
+I am open to software development internships, entry-level software engineering roles, and meaningful collaborations involving full-stack development, backend engineering, or applied AI.
 
-<p>
-  <a href="mailto:kumaranikant24@gmail.com"><strong>Email me</strong></a> ·
-  <a href="https://drive.google.com/file/d/1l_xIWaEO0RbFKZcAIqoJBo_55HbjMRU2/view?usp=drive_link"><strong>View resume</strong></a> ·
-  <a href="https://github.com/Ankit24072002"><strong>Browse GitHub</strong></a>
-</p>
+## Connect
 
 <div align="center">
+
+<a href="mailto:kumaranikant24@gmail.com"><img src="https://img.shields.io/badge/Email-kumaranikant24%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://drive.google.com/file/d/1l_xIWaEO0RbFKZcAIqoJBo_55HbjMRU2/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-Download-0A66C2?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume"></a>
+<a href="https://github.com/Ankit24072002"><img src="https://img.shields.io/badge/GitHub-Ankit24072002-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+
+<br><br>
 
 <sub>Thoughtful interfaces. Reliable systems. Continuous learning.</sub>
 
