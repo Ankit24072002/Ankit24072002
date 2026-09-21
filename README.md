@@ -21,6 +21,17 @@
 </tr>
 </table>
 
+<div align="center">
+
+<a href="https://github.com/Ankit24072002"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=0F766E&center=true&vCenter=true&width=600&lines=Building+full-stack+products;Exploring+local-first+AI;Turning+problems+into+working+software" alt="Typing introduction"></a>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ankit24072002&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=0f766e&text_color=475569&icon_color=155e75" height="165" alt="GitHub activity statistics">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit24072002&layout=compact&hide_border=true&bg_color=00000000&title_color=0f766e&text_color=475569" height="165" alt="Most used languages">
+
+</div>
+
 ## About Me
 
 I am a B.Tech Computer Science and Engineering student graduating in 2026, focused on building polished full-stack applications and practical AI products. I enjoy taking a problem from an initial idea to a responsive interface, working backend, persistent data model, and deployable experience.
@@ -42,6 +53,55 @@ My work spans React, Node.js, Express, databases, authentication, real-time syst
 | Data | MongoDB, Mongoose, PostgreSQL, Qdrant |
 | AI | Ollama, embeddings, RAG, semantic retrieval, document processing |
 | Delivery | Git, GitHub, Docker, Docker Compose, Vercel, Render |
+
+## Engineering Strengths
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Product Thinking
+
+I start with the user workflow, then shape the interface, API, data model, and feedback states around it.
+
+</td>
+<td width="33%" valign="top">
+
+### Full-Stack Ownership
+
+I enjoy connecting responsive frontend experiences with authentication, backend logic, persistence, and deployment.
+
+</td>
+<td width="33%" valign="top">
+
+### Practical AI
+
+I explore AI where it creates useful product behavior: retrieval, document Q&A, classification, and local inference.
+
+</td>
+</tr>
+</table>
+
+## How I Build
+
+```text
+Understand the problem
+	|
+	v
+Design a clear user flow
+	|
+	v
+Build the interface and API
+	|
+	v
+Connect data, auth, and integrations
+	|
+	v
+Test the workflow and improve the edges
+	|
+	v
+Deploy, learn, and iterate
+```
 
 ## Featured Builds
 
@@ -111,6 +171,16 @@ Every public project has a place here. The collection shows my progression acros
 | **XTSApiClient** | API client implementation | C# | [Open](https://github.com/Ankit24072002/XTSApiClient) |
 | **Chakra** | Frontend web project | HTML | [Open](https://github.com/Ankit24072002/Chakra) |
 | **25300122024** | JavaScript application project | JavaScript | [Open](https://github.com/Ankit24072002/25300122024) |
+
+## Project Themes
+
+<div align="center">
+
+| <img src="https://img.shields.io/badge/01-Product%20Interfaces-0f766e?style=for-the-badge" alt="Product interfaces"> | <img src="https://img.shields.io/badge/02-Backend%20Systems-155e75?style=for-the-badge" alt="Backend systems"> | <img src="https://img.shields.io/badge/03-Applied%20AI-334155?style=for-the-badge" alt="Applied AI"> |
+| :---: | :---: | :---: |
+| Responsive layouts, dashboards, portfolios, and user flows | APIs, authentication, databases, integrations, and deployment | RAG, embeddings, classification, fraud analysis, and local models |
+
+</div>
 
 ## Education
 
