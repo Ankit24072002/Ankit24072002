@@ -1,583 +1,629 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:0f766e,100:06b6d4&height=230&section=header&text=Ankit%20Kumar%20Singh&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Software%20Engineer&descAlignY=60&descSize=19&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:0f766e,100:06b6d4&height=260&section=header&text=ANKIT%20KUMAR%20SINGH&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20BUILDER%20%7C%20SOFTWARE%20ENGINEER&descAlignY=59&descSize=17&animation=fadeIn" width="100%"/>
 
-# 👋 Hi, I'm Ankit Kumar Singh
+<br/>
 
-### Full-Stack Developer · AI Enthusiast · Software Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=760&lines=Building+modern+full-stack+products.;Engineering+practical+AI+applications.;Designing+clean%2C+responsive+user+experiences.;From+idea+%E2%86%92+architecture+%E2%86%92+deployment." alt="Typing animation"/>
 
-<p>
-  <strong>
-    I build modern full-stack applications, practical AI products,
-    and polished digital experiences.
-  </strong>
-</p>
+<br/><br/>
 
-<p>
-  <a href="https://github.com/Ankit24072002">
-    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ankit-kumar-singh-905109319">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kumaranikant24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://drive.google.com/file/d/1l_xIWaEO0RbFKZcAIqoJBo_55HbjMRU2/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Resume-Download-0f766e?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/Ankit24072002">
+<img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/ankit-kumar-singh-905109319">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:kumaranikant24@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://drive.google.com/file/d/1l_xIWaEO0RbFKZcAIqoJBo_55HbjMRU2/view?usp=drive_link">
+<img src="https://img.shields.io/badge/Resume-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=Ankit24072002&label=PROFILE%20VIEWS&color=0f766e&style=flat-square" />
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ankit24072002&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge"/>
 
 </div>
-
----
-
-# 👨‍💻 About Me
-
-I'm a **B.Tech Computer Science & Engineering graduate (2026)** passionate about building software that combines **great user experiences, reliable backend systems, and practical AI**.
-
-I enjoy taking an idea through the complete development journey:
 
 <div align="center">
 
-### 💡 Concept → 🎨 Design → ⚙️ Development → 🔗 Integration → 🚀 Deployment
+⚡ BUILDING AT THE INTERSECTION OF PRODUCT × ENGINEERING × AI
+
+Full-Stack Development   •   Applied AI   •   Backend Engineering   •   UI/UX
 
 </div>
 
-My focus is on building applications that are:
-
-| 🎨 | Modern & Responsive        |
-| -- | -------------------------- |
-| ⚡  | Fast & Interactive         |
-| 🔐 | Secure & Reliable          |
-| 🧩 | Maintainable & Scalable    |
-| 🤖 | Enhanced with Practical AI |
-
-I enjoy working across the complete development lifecycle — from designing interfaces and APIs to connecting databases, implementing authentication, integrating AI capabilities, debugging production issues, and deploying applications.
-
-<div align="center">
-
-> **Build useful things. Keep the experience simple. Make the engineering reliable.**
-
-</div>
-
----
-
-# 💼 What I Do
+<br/>
 
 <table>
 <tr>
+<td width="52%" valign="top">
 
-<td width="50%" valign="top">
+👋 About Me
 
-## 🚀 Full-Stack Development
+I'm a B.Tech Computer Science & Engineering graduate (2026) focused on building software that combines:
 
-I build complete web applications from **frontend to backend and deployment**.
+🎨 polished user experiences
 
-* ⚛️ Responsive React applications
-* 🔌 REST API development
-* 🔐 Authentication & authorization
-* 🗄️ Database design & integration
-* 🔗 Third-party API integration
-* ☁️ Production deployment
-* 🧩 Frontend / backend / service integration
+⚙️ reliable backend systems
 
-**Core Stack**
+🤖 practical AI capabilities
 
-`React` `Vite` `Node.js` `Express`
-`MongoDB` `PostgreSQL` `JWT`
+🔐 secure application workflows
+
+☁️ production-ready deployment
+
+I enjoy owning the complete product lifecycle — from concept and interface design to APIs, databases, authentication, AI integration, testing, debugging, and deployment.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
-## 🤖 AI Application Development
+🧭 My Engineering Loop
 
-I build AI-powered applications focused on **real-world functionality and useful workflows**.
-
-* 🧠 RAG applications
-* 📄 Document processing & analysis
-* 🔎 Semantic search
-* 🧬 Embeddings
-* 🗂️ Vector databases
-* 💬 AI assistants
-* 🖥️ Local LLM experimentation
-
-**AI Stack**
-
-`Python` `RAG` `Qdrant`
-`Ollama` `Embeddings` `LLMs`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🎨 UI / UX Development
-
-I create interfaces that are **modern, responsive, intuitive, and visually polished**.
-
-* 📱 Responsive layouts
-* 📊 Dashboard interfaces
-* 🧩 Reusable components
-* ✨ Animations & micro-interactions
-* 🌙 Theme support
-* 📐 Mobile-first development
-* 🎯 User-focused workflows
-
-**UI Stack**
-
-`React` `Tailwind CSS`
-`Bootstrap` `Framer Motion` `Vite`
+       ┌─────────────────────┐
+       │   💡 Understand     │
+       │      Problem        │
+       └──────────┬──────────┘
+                  ↓
+       ┌─────────────────────┐
+       │   🎨 Design Flow    │
+       └──────────┬──────────┘
+                  ↓
+       ┌─────────────────────┐
+       │   ⚙️ Build Product  │
+       └──────────┬──────────┘
+                  ↓
+       ┌─────────────────────┐
+       │ 🔗 Integrate Data   │
+       └──────────┬──────────┘
+                  ↓
+       ┌─────────────────────┐
+       │ 🧪 Test & Improve   │
+       └──────────┬──────────┘
+                  ↓
+       ┌─────────────────────┐
+       │ 🚀 Deploy & Iterate │
+       └─────────────────────┘
 
 </td>
-
-<td width="50%" valign="top">
-
-## ⚙️ Software Engineering
-
-I enjoy taking projects from **idea to deployable software**.
-
-* 🏗️ Application architecture
-* 🐛 Debugging & troubleshooting
-* 🧪 Testing workflows
-* 🔄 API integration
-* 🔐 Authentication systems
-* 🐳 Dockerized development
-* 🚀 Production deployment
-
-**Workflow**
-
-`Plan → Build → Integrate → Test → Deploy → Improve`
-
-</td>
-
 </tr>
 </table>
 
----
+<div align="center">
 
-# 🛠️ Tech Stack
+🧩 WHAT I BUILD
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🚀 Full-Stack Products
+
+Frontend → API → Database → Authentication → Deployment
+
+React & Vite applications
+
+REST API architecture
+
+JWT authentication
+
+MongoDB / PostgreSQL / MySQL
+
+Third-party API integrations
+
+Responsive dashboards
+
+Production deployment
+
+Stack
+
+React Vite Node.js Express MongoDB PostgreSQL JWT
+
+</td>
+
+<td width="50%" valign="top">
+
+🤖 AI Applications
+
+AI that solves practical product problems
+
+RAG pipelines
+
+Document intelligence
+
+Semantic search
+
+Embeddings
+
+Vector databases
+
+AI assistants
+
+Local LLM experimentation
+
+Stack
+
+Python RAG Qdrant Ollama Embeddings LLMs
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+🎨 Premium UI / UX
+
+Interfaces designed to feel fast, clear, and intentional
+
+Mobile-first layouts
+
+Dashboard systems
+
+Reusable components
+
+Micro-interactions
+
+Theme systems
+
+Framer Motion animations
+
+User-focused workflows
+
+Stack
+
+React Tailwind CSS Bootstrap Framer Motion Vite
+
+</td>
+
+<td width="50%" valign="top">
+
+⚙️ Engineering
+
+Turning ideas into maintainable software
+
+Application architecture
+
+Debugging & troubleshooting
+
+API integration
+
+Authentication systems
+
+Dockerized development
+
+Deployment configuration
+
+Production issue resolution
+
+Workflow
+
+Plan → Build → Integrate → Test → Deploy → Improve
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-### 🎨 Frontend
+🛠️ TECHNOLOGY UNIVERSE
+
+Frontend
 
 <img src="https://skillicons.dev/icons?i=react,vite,js,html,css,tailwind,bootstrap" />
 
-<br/><br/>
-
-### ⚙️ Backend & Programming
+Backend & Programming
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cs" />
 
-<br/><br/>
-
-### 🗄️ Databases
+Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 
-<br/><br/>
+AI / Data
 
-### 🤖 AI & Data
+RAG   Embeddings   Semantic Search   Qdrant   Ollama   Document Processing
 
-`RAG` · `Embeddings` · `Semantic Search` · `Qdrant` · `Ollama` · `Document Processing`
-
-<br/><br/>
-
-### ☁️ DevOps & Tools
+Cloud / DevOps / Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,render" />
 
 </div>
 
----
-
-# ⭐ Featured Projects
-
 <div align="center">
 
-### Building products that solve practical problems.
+🏆 FEATURED WORK
+
+A selection of products I've built around real-world workflows.
 
 </div>
-
----
-
-## 🤖 AI RAG Knowledge Assistant
-
-> **Private, local-first document intelligence platform**
-
-A RAG-based application for document ingestion, semantic retrieval, grounded question answering, and AI-powered document interaction.
-
-### ✨ Highlights
-
-* 📄 PDF / TXT document ingestion
-* 🧠 Embeddings & semantic retrieval
-* 🔎 Vector search
-* 💬 Grounded document Q&A
-* 🖼️ Screenshot analysis
-* 🔒 Local-first AI workflow
-
-**Stack**
-
-`React` `Node.js` `MongoDB` `Qdrant` `Ollama` `Docker`
-
-<div align="left">
-
-<a href="https://github.com/Ankit24072002/ai-rag-knowledge-assistant">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0f766e?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## 🌊 Ocean Hazard Platform
-
-> **Crowdsourced ocean hazard reporting & verification platform**
-
-A full-stack geospatial application for reporting, visualizing, verifying, and managing ocean hazards.
-
-### ✨ Highlights
-
-* 🌍 Geotagged hazard reports
-* 🗺️ Interactive maps
-* 🤖 AI classification
-* 📊 Credibility scoring
-* ✅ Report verification
-* ⚡ Live updates
-
-**Stack**
-
-`React` `Node.js` `PostgreSQL` `Leaflet` `Docker`
-
-<div align="left">
-
-<a href="https://ocean-hazard-platform.vercel.app">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://github.com/Ankit24072002/ocean-hazard-platform">
-<img src="https://img.shields.io/badge/SOURCE-18181B?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## 🎯 JobPilot.AI
-
-> **AI-powered career intelligence platform**
-
-A career platform designed to help users discover opportunities, optimize resumes, understand ATS compatibility, and receive AI-powered career insights.
-
-### ✨ Highlights
-
-* 🎯 Intelligent job matching
-* 📄 Resume parsing
-* 📊 ATS optimization
-* 🤖 AI career insights
-* 📋 Application tracking
-* 🔐 Secure authentication
-
-**Stack**
-
-`React` `Vite` `Tailwind CSS` `Node.js` `Express` `MongoDB` `JWT`
-
-<div align="left">
-
-<a href="https://jobpilot-livid-omega.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE%20PRODUCT-EA4335?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://github.com/JOB-PILOT-AI/JobPilot-AI">
-<img src="https://img.shields.io/badge/SOURCE-18181B?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## 💰 Mutual Fund Tracker
-
-> **Full-stack financial research application**
-
-A web application for searching mutual funds, viewing fund information, securely managing accounts, and saving funds for later.
-
-### ✨ Highlights
-
-* 🔎 Mutual fund search
-* 📊 Fund information
-* 🔐 JWT authentication
-* 💾 Save funds
-* 👤 User account management
-* 🌐 API integration
-
-**Stack**
-
-`React` `Node.js` `Express` `MongoDB` `JWT`
-
-<div align="left">
-
-<a href="https://mutual-fund-tracker-2-iqzm.onrender.com">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-06b6d4?style=for-the-badge&logo=render&logoColor=white" />
-</a>
-
-<a href="https://github.com/Ankit24072002/mutual-fund-tracker">
-<img src="https://img.shields.io/badge/SOURCE-18181B?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-# 🧠 Engineering Approach
-
-<div align="center">
-
-```text
-                 💡 Understand the Problem
-                           │
-                           ▼
-                  🎨 Design the User Flow
-                           │
-                           ▼
-                    ⚙️ Build the Product
-                           │
-                           ▼
-                 🔗 Connect APIs & Data
-                           │
-                           ▼
-                    🧪 Test & Improve
-                           │
-                           ▼
-                      🚀 Deploy
-                           │
-                           ▼
-                       🔄 Iterate
-```
-
-</div>
-
----
-
-# 📂 Project Portfolio
-
-| Project                        | What I Built                    | Technology          |
-| :----------------------------- | :------------------------------ | :------------------ |
-| **FraudShield**                | Fraud detection & analysis      | JavaScript / Python |
-| **JobPilot.AI**                | AI career intelligence platform | JavaScript          |
-| **Loan Eligibility Checker**   | Loan eligibility workflow       | JavaScript          |
-| **Stock Portfolio**            | Stock portfolio application     | JavaScript          |
-| **Event Management Dashboard** | Event operations dashboard      | JavaScript          |
-| **apna_Gpt**                   | AI chat application             | JavaScript          |
-| **vdo_calling**                | Browser-based video calling     | JavaScript          |
-| **XTSApiClient**               | API client implementation       | C#                  |
-| **Chakra**                     | Frontend web project            | HTML                |
-
-### 🔗 Project Links
-
-* [**FraudShield**](https://github.com/Ankit24072002/FraudShield)
-* [**JobPilot.AI**](https://github.com/JOB-PILOT-AI/JobPilot-AI)
-* [**Loan Eligibility Checker**](https://github.com/Ankit24072002/loan-eligibility-checker)
-* [**Stock Portfolio**](https://github.com/Ankit24072002/stock_portfolio)
-* [**Event Management Dashboard**](https://github.com/Ankit24072002/Event_managementDashboard)
-* [**apna_Gpt**](https://github.com/Ankit24072002/apna_Gpt)
-* [**vdo_calling**](https://github.com/Ankit24072002/vdo_calling)
-* [**XTSApiClient**](https://github.com/Ankit24072002/XTSApiClient)
-
----
-
-# 🏆 Certifications & Achievements
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="33%" valign="top" align="center">
+🤖 AI RAG Knowledge Assistant
 
-## 🤖 Google GEN AI Bootcamp
+Private, local-first document intelligence
 
-### 2025
+A RAG application for document ingestion, semantic retrieval, grounded Q&A, and AI-powered document interaction.
 
-Attended the **Google GEN AI Bootcamp 2025**, exploring Generative AI concepts and applications.
+Highlights
+
+📄 PDF / TXT ingestion
+
+🧠 Embeddings & semantic retrieval
+
+🔎 Vector search
+
+💬 Grounded document Q&A
+
+🖼️ Screenshot analysis
+
+🔒 Local-first workflow
+
+Built with
+
+React Node.js MongoDB Qdrant Ollama Docker
+
+<br/>
+
+<a href="https://github.com/Ankit24072002/ai-rag-knowledge-assistant">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0F766E?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+🎯 JobPilot.AI
+
+AI-powered career intelligence platform
+
+A career platform designed around job discovery, resume optimization, ATS analysis, intelligent matching, and application tracking.
+
+Highlights
+
+🎯 Intelligent job matching
+
+📄 Resume parsing
+
+📊 ATS optimization
+
+🤖 AI career insights
+
+📋 Application tracking
+
+🔐 Secure authentication
+
+Built with
+
+React Vite Tailwind CSS Node.js Express MongoDB JWT
+
+<br/>
+
+<a href="https://jobpilot-livid-omega.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE%20PRODUCT-EA4335?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/JOB-PILOT-AI/JobPilot-AI">
+<img src="https://img.shields.io/badge/SOURCE-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+🌊 Ocean Hazard Platform
+
+Crowdsourced ocean hazard reporting & verification
+
+A geospatial platform for reporting, visualizing, verifying, and managing ocean hazards.
+
+Highlights
+
+🌍 Geotagged reports
+
+🗺️ Interactive maps
+
+🤖 AI classification
+
+📊 Credibility scoring
+
+✅ Verification workflows
+
+⚡ Live updates
+
+Built with
+
+React Node.js PostgreSQL Leaflet Docker
+
+<br/>
+
+<a href="https://ocean-hazard-platform.vercel.app">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Ankit24072002/ocean-hazard-platform">
+<img src="https://img.shields.io/badge/SOURCE-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+💰 Mutual Fund Tracker
+
+Full-stack financial research application
+
+A web application for searching mutual funds, viewing fund information, managing accounts, and saving funds.
+
+Highlights
+
+🔎 Mutual fund search
+
+📊 Fund information
+
+🔐 JWT authentication
+
+💾 Saved funds
+
+👤 Account management
+
+🌐 API integration
+
+Built with
+
+React Node.js Express MongoDB JWT
+
+<br/>
+
+<a href="https://mutual-fund-tracker-2-iqzm.onrender.com">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-06B6D4?style=for-the-badge&logo=render&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Ankit24072002/mutual-fund-tracker">
+<img src="https://img.shields.io/badge/SOURCE-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+🧠 PROJECT PORTFOLIO
+
+</div>
+
+Project
+
+Focus
+
+Technology
+
+FraudShield
+
+Fraud detection & analysis
+
+JavaScript / Python
+
+JobPilot.AI
+
+AI career intelligence
+
+JavaScript
+
+Loan Eligibility Checker
+
+Loan eligibility workflow
+
+JavaScript
+
+Stock Portfolio
+
+Portfolio management
+
+JavaScript
+
+Event Management Dashboard
+
+Event operations
+
+JavaScript
+
+apna_Gpt
+
+AI chat application
+
+JavaScript
+
+vdo_calling
+
+Browser video calling
+
+JavaScript
+
+XTSApiClient
+
+API client implementation
+
+C#
+
+Chakra
+
+Frontend web project
+
+HTML
+
+🔗 Explore
+
+<a href="https://github.com/Ankit24072002/FraudShield">FraudShield</a> ·
+<a href="https://github.com/JOB-PILOT-AI/JobPilot-AI">JobPilot.AI</a> ·
+<a href="https://github.com/Ankit24072002/loan-eligibility-checker">Loan Eligibility Checker</a> ·
+<a href="https://github.com/Ankit24072002/stock_portfolio">Stock Portfolio</a> ·
+<a href="https://github.com/Ankit24072002/Event_managementDashboard">Event Management Dashboard</a> ·
+<a href="https://github.com/Ankit24072002/apna_Gpt">apna_Gpt</a> ·
+<a href="https://github.com/Ankit24072002/vdo_calling">vdo_calling</a> ·
+<a href="https://github.com/Ankit24072002/XTSApiClient">XTSApiClient</a>
+
+<div align="center">
+
+🏅 CERTIFICATIONS & ACHIEVEMENTS
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+🤖 Google GEN AI Bootcamp
+
+2025
+
+Explored Generative AI concepts and applications through the Google GEN AI Bootcamp.
 
 <br/>
 
 <a href="https://certificate.hack2skill.com/user/genaivolunteers1/2025H2S05GENAIB-V100011">
-<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-0f766e?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/VERIFY-CERTIFICATE-0F766E?style=for-the-badge&logo=google&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="33%" valign="top" align="center">
+<td width="33%" align="center" valign="top">
 
-## 🧠 Case-o-mania
+🧠 Case-o-mania
 
-### Unstop · 2025
+Unstop · 2025
 
-Participated in **Case-o-mania**, developing analytical thinking and practical problem-solving skills through case-based challenges.
+Participated in case-based challenges focused on analytical thinking and practical problem solving.
 
 <br/>
 
 <a href="https://unstop.com/certificate-preview/922b5441-47dc-46f88635-abd0b256cc62?utm_campaign=site-emails">
-<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-FF6B35?style=for-the-badge&logo=unstop&logoColor=white" />
+<img src="https://img.shields.io/badge/VERIFY-CERTIFICATE-FF6B35?style=for-the-badge&logo=unstop&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="33%" valign="top" align="center">
+<td width="33%" align="center" valign="top">
 
-## 🏅 Young Turks
+🏅 Young Turks
 
-### Naukri Campus
+Naukri Campus
 
-Received a **Merit Certificate** in **Young Turks – India's largest Skills Contest on Naukri Campus**.
+Received a Merit Certificate in Young Turks — India's Skills Contest on Naukri Campus.
 
 <br/>
 
-<!-- Replace the link below with the correct Young Turks certificate URL -->
+<!-- Replace with the actual certificate URL -->
 
-<a href="YOUR_YOUNG_TURKS_CERTIFICATE_LINK">
-<img src="https://img.shields.io/badge/MERIT%20CERTIFICATE-155e75?style=for-the-badge&logo=readthedocs&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/MERIT-CERTIFICATE-155E75?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 
 </td>
-
 </tr>
 </table>
-
----
-
-# 🌟 Extracurricular Activities
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 💻 Coding Club
-
-**Member — Coding Club, SKFGI**
-
-Participated in coding-focused activities, technical discussions, collaborative problem solving, and peer learning.
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🎯 TechFest 2025
-
-**Organizer**
-
-Contributed to organizing and coordinating technical events and activities as part of **TechFest 2025**.
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ankit24072002&show_icons=true&hide_border=true&theme=transparent&title_color=0f766e&icon_color=0f766e&text_color=64748b" height="170" />
+📊 GITHUB ANALYTICS
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit24072002&layout=compact&hide_border=true&theme=transparent&title_color=0f766e&text_color=64748b" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ankit24072002&show_icons=true&hide_border=true&theme=transparent&title_color=06b6d4&icon_color=0f766e&text_color=64748b&rank_icon=github" height="175"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit24072002&layout=compact&hide_border=true&theme=transparent&title_color=06b6d4&text_color=64748b" height="175"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Ankit24072002&hide_border=true&theme=transparent&ring=0f766e&fire=06b6d4&currStreakLabel=0f766e" />
+<img src="https://streak-stats.demolab.com?user=Ankit24072002&hide_border=true&theme=transparent&ring=06b6d4&fire=0f766e&currStreakLabel=0f766e" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit24072002&bg_color=00000000&color=64748b&line=06b6d4&point=0f766e&area=true&hide_border=true" width="95%"/>
 
 </div>
-
----
-
-# 🎓 Education
 
 <div align="center">
 
-### 🎓 Bachelor of Technology
+🎓 EDUCATION
 
-**Computer Science & Engineering**
+<table>
+<tr>
+<td align="center">
 
-**MAKAUT University**
+Bachelor of Technology
 
-`2022 — 2026`
+Computer Science & Engineering
+
+MAKAUT University
+
+2022 — 2026
+
+</td>
+</tr>
+</table>
 
 </div>
-
----
-
-# 🔭 Currently Exploring
 
 <div align="center">
 
-|  🤖 | Production AI     |
-| :-: | :---------------- |
-|  🔎 | RAG Pipelines     |
-| 🏗️ | System Design     |
-|  ⚡  | Scalable Backends |
-|  ☁️ | Cloud Deployment  |
-|  🧪 | Software Quality  |
+🔭 CURRENTLY EXPLORING
 
 </div>
 
----
+<table>
+<tr>
+<td align="center">🤖<br/><b>Production AI</b></td>
+<td align="center">🔎<br/><b>RAG Pipelines</b></td>
+<td align="center">🏗️<br/><b>System Design</b></td>
+<td align="center">⚡<br/><b>Scalable Backends</b></td>
+<td align="center">☁️<br/><b>Cloud Deployment</b></td>
+<td align="center">🧪<br/><b>Software Quality</b></td>
+</tr>
+</table>
 
-# 🌱 Open To Opportunities
+<div align="center">
+
+🌟 OPEN TO OPPORTUNITIES
 
 I'm interested in opportunities involving:
 
-<div align="center">
+Full-Stack Development   Backend Engineering   Software Engineering   Applied AI
 
-`Full-Stack Development`  
-`Backend Engineering`  
-`Software Engineering`  
-`Applied AI`
+<br/>
+
+Open to entry-level software engineering roles, internships, and meaningful collaborations where I can contribute to real products, solve engineering problems, and continue growing as a developer.
 
 </div>
 
-I'm open to **entry-level software engineering roles, internships, and meaningful collaborations** where I can contribute to real products, solve engineering problems, and continue growing as a developer.
-
----
-
-# 🤝 Let's Connect
-
 <div align="center">
 
-<p>
+🤝 LET'S BUILD SOMETHING
 
 <a href="mailto:kumaranikant24@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/LET'S%20TALK-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/ankit-kumar-singh-905109319">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/Ankit24072002">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE%20GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/file/d/1l_xIWaEO0RbFKZcAIqoJBo_55HbjMRU2/view?usp=drive_link">
-<img src="https://img.shields.io/badge/Resume-Download-0f766e?style=for-the-badge&logo=readthedocs&logoColor=white" />
-</a>
+<br/><br/>
 
-</p>
+✦ Thoughtful interfaces. Reliable systems. Practical AI. ✦
 
 <br/>
 
-### 💬 *Thoughtful interfaces. Reliable systems. Practical AI.*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0f766e,100:020617&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0f766e,100:020617&height=130&section=footer" width="100%"/>
 
 </div>
