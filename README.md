@@ -4,10 +4,13 @@
 
 # 👋 Hi, I'm Ankit Kumar Singh
 
-### Full-Stack Developer • AI Enthusiast • Software Engineer
+### Full-Stack Developer · AI Enthusiast · Software Engineer
 
 <p>
-  <strong>I build modern full-stack applications, practical AI products, and polished user experiences.</strong>
+  <strong>
+    I build modern full-stack applications, practical AI products,
+    and polished digital experiences.
+  </strong>
 </p>
 
 <p>
@@ -25,8 +28,6 @@
   </a>
 </p>
 
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=Ankit24072002&label=PROFILE%20VIEWS&color=0f766e&style=flat-square" />
 
 </div>
@@ -37,21 +38,30 @@
 
 I'm a **B.Tech Computer Science & Engineering graduate (2026)** passionate about building software that combines **great user experiences, reliable backend systems, and practical AI**.
 
-I enjoy taking an idea from:
+I enjoy taking an idea through the complete development journey:
 
-**💡 Concept → 🎨 Design → ⚙️ Development → 🔗 Integration → 🚀 Deployment**
+<div align="center">
+
+### 💡 Concept → 🎨 Design → ⚙️ Development → 🔗 Integration → 🚀 Deployment
+
+</div>
 
 My focus is on building applications that are:
 
-* 🎨 Modern and responsive
-* ⚡ Fast and interactive
-* 🔐 Secure and reliable
-* 🧩 Maintainable and scalable
-* 🤖 Enhanced with practical AI
+| 🎨 | Modern & Responsive        |
+| -- | -------------------------- |
+| ⚡  | Fast & Interactive         |
+| 🔐 | Secure & Reliable          |
+| 🧩 | Maintainable & Scalable    |
+| 🤖 | Enhanced with Practical AI |
 
 I enjoy working across the complete development lifecycle — from designing interfaces and APIs to connecting databases, implementing authentication, integrating AI capabilities, debugging production issues, and deploying applications.
 
+<div align="center">
+
 > **Build useful things. Keep the experience simple. Make the engineering reliable.**
+
+</div>
 
 ---
 
@@ -66,15 +76,15 @@ I enjoy working across the complete development lifecycle — from designing int
 
 I build complete web applications from **frontend to backend and deployment**.
 
-* ⚛️ Build responsive React applications
-* 🔌 Develop REST APIs
-* 🔐 Implement authentication & authorization
-* 🗄️ Design and integrate databases
-* 🔗 Integrate third-party APIs
-* ☁️ Deploy production applications
-* 🧩 Connect frontend, backend & services
+* ⚛️ Responsive React applications
+* 🔌 REST API development
+* 🔐 Authentication & authorization
+* 🗄️ Database design & integration
+* 🔗 Third-party API integration
+* ☁️ Production deployment
+* 🧩 Frontend / backend / service integration
 
-**Tech**
+**Core Stack**
 
 `React` `Vite` `Node.js` `Express`
 `MongoDB` `PostgreSQL` `JWT`
@@ -87,15 +97,15 @@ I build complete web applications from **frontend to backend and deployment**.
 
 I build AI-powered applications focused on **real-world functionality and useful workflows**.
 
-* 🧠 Build RAG applications
-* 📄 Process and analyze documents
-* 🔎 Implement semantic search
-* 🧬 Work with embeddings
-* 🗂️ Use vector databases
-* 💬 Build AI assistants
-* 🖥️ Experiment with local LLMs
+* 🧠 RAG applications
+* 📄 Document processing & analysis
+* 🔎 Semantic search
+* 🧬 Embeddings
+* 🗂️ Vector databases
+* 💬 AI assistants
+* 🖥️ Local LLM experimentation
 
-**Tech**
+**AI Stack**
 
 `Python` `RAG` `Qdrant`
 `Ollama` `Embeddings` `LLMs`
@@ -120,7 +130,7 @@ I create interfaces that are **modern, responsive, intuitive, and visually polis
 * 📐 Mobile-first development
 * 🎯 User-focused workflows
 
-**Tech**
+**UI Stack**
 
 `React` `Tailwind CSS`
 `Bootstrap` `Framer Motion` `Vite`
@@ -156,31 +166,31 @@ I enjoy taking projects from **idea to deployable software**.
 
 <div align="center">
 
-### Frontend
+### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=react,vite,js,html,css,tailwind,bootstrap" />
 
 <br/><br/>
 
-### Backend & Programming
+### ⚙️ Backend & Programming
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cs" />
 
 <br/><br/>
 
-### Databases
+### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 
 <br/><br/>
 
-### AI & Data
+### 🤖 AI & Data
 
-`RAG` `Embeddings` `Semantic Search` `Qdrant` `Ollama` `Document Processing`
+`RAG` · `Embeddings` · `Semantic Search` · `Qdrant` · `Ollama` · `Document Processing`
 
 <br/><br/>
 
-### DevOps & Tools
+### ☁️ DevOps & Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,render" />
 
@@ -190,6 +200,14 @@ I enjoy taking projects from **idea to deployable software**.
 
 # ⭐ Featured Projects
 
+<div align="center">
+
+### Building products that solve practical problems.
+
+</div>
+
+---
+
 ## 🤖 AI RAG Knowledge Assistant
 
 > **Private, local-first document intelligence platform**
@@ -198,7 +216,7 @@ A RAG-based application for document ingestion, semantic retrieval, grounded que
 
 ### ✨ Highlights
 
-* 📄 PDF/TXT document ingestion
+* 📄 PDF / TXT document ingestion
 * 🧠 Embeddings & semantic retrieval
 * 🔎 Vector search
 * 💬 Grounded document Q&A
@@ -260,7 +278,7 @@ A career platform designed to help users discover opportunities, optimize resume
 
 ### ✨ Highlights
 
-* 🎯 Job matching
+* 🎯 Intelligent job matching
 * 📄 Resume parsing
 * 📊 ATS optimization
 * 🤖 AI career insights
@@ -351,7 +369,7 @@ A web application for searching mutual funds, viewing fund information, securely
 # 📂 Project Portfolio
 
 | Project                        | What I Built                    | Technology          |
-| ------------------------------ | ------------------------------- | ------------------- |
+| :----------------------------- | :------------------------------ | :------------------ |
 | **FraudShield**                | Fraud detection & analysis      | JavaScript / Python |
 | **JobPilot.AI**                | AI career intelligence platform | JavaScript          |
 | **Loan Eligibility Checker**   | Loan eligibility workflow       | JavaScript          |
@@ -364,20 +382,18 @@ A web application for searching mutual funds, viewing fund information, securely
 
 ### 🔗 Project Links
 
-* [FraudShield](https://github.com/Ankit24072002/FraudShield)
-* [JobPilot.AI](https://github.com/JOB-PILOT-AI/JobPilot-AI)
-* [Loan Eligibility Checker](https://github.com/Ankit24072002/loan-eligibility-checker)
-* [Stock Portfolio](https://github.com/Ankit24072002/stock_portfolio)
-* [Event Management Dashboard](https://github.com/Ankit24072002/Event_managementDashboard)
-* [apna_Gpt](https://github.com/Ankit24072002/apna_Gpt)
-* [vdo_calling](https://github.com/Ankit24072002/vdo_calling)
-* [XTSApiClient](https://github.com/Ankit24072002/XTSApiClient)
+* [**FraudShield**](https://github.com/Ankit24072002/FraudShield)
+* [**JobPilot.AI**](https://github.com/JOB-PILOT-AI/JobPilot-AI)
+* [**Loan Eligibility Checker**](https://github.com/Ankit24072002/loan-eligibility-checker)
+* [**Stock Portfolio**](https://github.com/Ankit24072002/stock_portfolio)
+* [**Event Management Dashboard**](https://github.com/Ankit24072002/Event_managementDashboard)
+* [**apna_Gpt**](https://github.com/Ankit24072002/apna_Gpt)
+* [**vdo_calling**](https://github.com/Ankit24072002/vdo_calling)
+* [**XTSApiClient**](https://github.com/Ankit24072002/XTSApiClient)
 
 ---
 
 # 🏆 Certifications & Achievements
-
-<div align="center">
 
 <table>
 <tr>
@@ -402,7 +418,7 @@ Attended the **Google GEN AI Bootcamp 2025**, exploring Generative AI concepts a
 
 ## 🧠 Case-o-mania
 
-### Unstop • 2025
+### Unstop · 2025
 
 Participated in **Case-o-mania**, developing analytical thinking and practical problem-solving skills through case-based challenges.
 
@@ -434,8 +450,6 @@ Received a **Merit Certificate** in **Young Turks – India's largest Skills Con
 
 </tr>
 </table>
-
-</div>
 
 ---
 
@@ -505,17 +519,13 @@ Contributed to organizing and coordinating technical events and activities as pa
 
 <div align="center">
 
-### 🤖 Production AI
-
-### 🔎 RAG Pipelines
-
-### 🏗️ System Design
-
-### ⚡ Scalable Backends
-
-### ☁️ Cloud Deployment
-
-### 🧪 Software Quality
+|  🤖 | Production AI     |
+| :-: | :---------------- |
+|  🔎 | RAG Pipelines     |
+| 🏗️ | System Design     |
+|  ⚡  | Scalable Backends |
+|  ☁️ | Cloud Deployment  |
+|  🧪 | Software Quality  |
 
 </div>
 
@@ -527,9 +537,9 @@ I'm interested in opportunities involving:
 
 <div align="center">
 
-`Full-Stack Development`
-`Backend Engineering`
-`Software Engineering`
+`Full-Stack Development`  
+`Backend Engineering`  
+`Software Engineering`  
 `Applied AI`
 
 </div>
@@ -541,6 +551,8 @@ I'm open to **entry-level software engineering roles, internships, and meaningfu
 # 🤝 Let's Connect
 
 <div align="center">
+
+<p>
 
 <a href="mailto:kumaranikant24@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -558,7 +570,9 @@ I'm open to **entry-level software engineering roles, internships, and meaningfu
 <img src="https://img.shields.io/badge/Resume-Download-0f766e?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </a>
 
-<br/><br/>
+</p>
+
+<br/>
 
 ### 💬 *Thoughtful interfaces. Reliable systems. Practical AI.*
 
