@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:0f766e,100:06b6d4&height=230&section=header&text=Ankit%20Kumar%20Singh&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Software%20Engineer&descAlignY=60&descSize=19&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0f172a,50:0891b2,75:06b6d4,100:00fff2&height=230&section=header&text=Ankit%20Kumar%20Singh&fontSize=46&fontColor=00fff2&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Software%20Engineer&descAlignY=60&descSize=19&animation=fadeIn" width="100%" />
 
-# 👋 Hi, I'm Ankit Kumar Singh
+# ⚡ Hi, I'm Ankit Kumar Singh
 
 ### Full-Stack Developer · AI Enthusiast · Software Engineer
 
@@ -15,20 +15,20 @@
 
 <p>
   <a href="https://github.com/Ankit24072002">
-    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=00fff2" />
   </a>
   <a href="https://www.linkedin.com/in/ankit-kumar-singh-905109319">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00fff2" />
   </a>
   <a href="mailto:kumaranikant24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=00fff2" />
   </a>
   <a href="https://drive.google.com/file/d/1l_xIWaEO0RbFKZcAIqoJBo_55HbjMRU2/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Resume-Download-0f766e?style=for-the-badge&logo=readthedocs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Resume-Download-00d4ff?style=for-the-badge&logo=readthedocs&logoColor=020617" />
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Ankit24072002&label=PROFILE%20VIEWS&color=0f766e&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Ankit24072002&label=PROFILE%20VIEWS&color=00d4ff&style=flat-square" />
 
 </div>
 
@@ -230,7 +230,7 @@ A RAG-based application for document ingestion, semantic retrieval, grounded que
 <div align="left">
 
 <a href="https://github.com/Ankit24072002/ai-rag-knowledge-assistant">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0f766e?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00d4ff?style=for-the-badge&logo=github&logoColor=020617" />
 </a>
 
 </div>
@@ -259,11 +259,11 @@ A full-stack geospatial application for reporting, visualizing, verifying, and m
 <div align="left">
 
 <a href="https://ocean-hazard-platform.vercel.app">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/LIVE%20DEMO-00fff2?style=for-the-badge&logo=vercel&logoColor=020617" />
 </a>
 
 <a href="https://github.com/Ankit24072002/ocean-hazard-platform">
-<img src="https://img.shields.io/badge/SOURCE-18181B?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/SOURCE-020617?style=for-the-badge&logo=github&logoColor=00fff2" />
 </a>
 
 </div>
@@ -292,11 +292,11 @@ A career platform designed to help users discover opportunities, optimize resume
 <div align="left">
 
 <a href="https://jobpilot-livid-omega.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE%20PRODUCT-EA4335?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/LIVE%20PRODUCT-00d4ff?style=for-the-badge&logo=vercel&logoColor=020617" />
 </a>
 
 <a href="https://github.com/JOB-PILOT-AI/JobPilot-AI">
-<img src="https://img.shields.io/badge/SOURCE-18181B?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/SOURCE-020617?style=for-the-badge&logo=github&logoColor=00fff2" />
 </a>
 
 </div>
@@ -325,11 +325,11 @@ A web application for searching mutual funds, viewing fund information, securely
 <div align="left">
 
 <a href="https://mutual-fund-tracker-2-iqzm.onrender.com">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-06b6d4?style=for-the-badge&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/LIVE%20DEMO-00fff2?style=for-the-badge&logo=render&logoColor=020617" />
 </a>
 
 <a href="https://github.com/Ankit24072002/mutual-fund-tracker">
-<img src="https://img.shields.io/badge/SOURCE-18181B?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/SOURCE-020617?style=for-the-badge&logo=github&logoColor=00fff2" />
 </a>
 
 </div>
@@ -409,7 +409,7 @@ Attended the **Google GEN AI Bootcamp 2025**, exploring Generative AI concepts a
 <br/>
 
 <a href="https://certificate.hack2skill.com/user/genaivolunteers1/2025H2S05GENAIB-V100011">
-<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-0f766e?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-00d4ff?style=for-the-badge&logo=google&logoColor=020617" />
 </a>
 
 </td>
@@ -425,7 +425,7 @@ Participated in **Case-o-mania**, developing analytical thinking and practical p
 <br/>
 
 <a href="https://unstop.com/certificate-preview/922b5441-47dc-46f88635-abd0b256cc62?utm_campaign=site-emails">
-<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-FF6B35?style=for-the-badge&logo=unstop&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-00fff2?style=for-the-badge&logo=unstop&logoColor=020617" />
 </a>
 
 </td>
@@ -443,7 +443,7 @@ Received a **Merit Certificate** in **Young Turks – India's largest Skills Con
 <!-- Replace the link below with the correct Young Turks certificate URL -->
 
 <a href="YOUR_YOUNG_TURKS_CERTIFICATE_LINK">
-<img src="https://img.shields.io/badge/MERIT%20CERTIFICATE-155e75?style=for-the-badge&logo=readthedocs&logoColor=white" />
+<img src="https://img.shields.io/badge/MERIT%20CERTIFICATE-0891b2?style=for-the-badge&logo=readthedocs&logoColor=00fff2" />
 </a>
 
 </td>
@@ -487,13 +487,13 @@ Contributed to organizing and coordinating technical events and activities as pa
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ankit24072002&show_icons=true&hide_border=true&theme=transparent&title_color=0f766e&icon_color=0f766e&text_color=64748b" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ankit24072002&show_icons=true&hide_border=true&theme=transparent&title_color=00fff2&icon_color=00d4ff&text_color=94a3b8&bg_color=00000000" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit24072002&layout=compact&hide_border=true&theme=transparent&title_color=0f766e&text_color=64748b" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit24072002&layout=compact&hide_border=true&theme=transparent&title_color=00fff2&text_color=94a3b8&bg_color=00000000" height="170" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Ankit24072002&hide_border=true&theme=transparent&ring=0f766e&fire=06b6d4&currStreakLabel=0f766e" />
+<img src="https://streak-stats.demolab.com?user=Ankit24072002&hide_border=true&theme=transparent&ring=00fff2&fire=00d4ff&currStreakLabel=00fff2&background=00000000" />
 
 </div>
 
@@ -537,9 +537,9 @@ I'm interested in opportunities involving:
 
 <div align="center">
 
-`Full-Stack Development`  
-`Backend Engineering`  
-`Software Engineering`  
+`Full-Stack Development`  
+`Backend Engineering`  
+`Software Engineering`  
 `Applied AI`
 
 </div>
@@ -555,19 +555,19 @@ I'm open to **entry-level software engineering roles, internships, and meaningfu
 <p>
 
 <a href="mailto:kumaranikant24@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=00fff2" />
 </a>
 
 <a href="https://www.linkedin.com/in/ankit-kumar-singh-905109319">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00fff2" />
 </a>
 
 <a href="https://github.com/Ankit24072002">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=00fff2" />
 </a>
 
 <a href="https://drive.google.com/file/d/1l_xIWaEO0RbFKZcAIqoJBo_55HbjMRU2/view?usp=drive_link">
-<img src="https://img.shields.io/badge/Resume-Download-0f766e?style=for-the-badge&logo=readthedocs&logoColor=white" />
+<img src="https://img.shields.io/badge/Resume-Download-00d4ff?style=for-the-badge&logo=readthedocs&logoColor=020617" />
 </a>
 
 </p>
@@ -578,6 +578,6 @@ I'm open to **entry-level software engineering roles, internships, and meaningfu
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0f766e,100:020617&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff2,50:0891b2,100:020617&height=120&section=footer" width="100%" />
 
 </div>
