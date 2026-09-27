@@ -1,44 +1,31 @@
+<table>
+  <tr>
+    <td width="62%" valign="middle">
+      <p><strong>WELCOME TO MY GITHUB PROFILE</strong></p>
+      <h1>Hi, I'm Ankit Kumar Singh</h1>
+      <p><strong>Full-Stack Developer&nbsp; | &nbsp;AI Builder&nbsp; | &nbsp;Software Engineer</strong></p>
+      <p>I build modern full-stack applications, practical AI products, and polished digital experiences.</p>
+      <p>
+        <a href="https://github.com/Ankit24072002"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+        <a href="https://www.linkedin.com/in/ankit-kumar-singh-905109319"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="mailto:kumaranikant24@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+        <a href="https://drive.google.com/file/d/1l_xIWaEO0RbFKZcAIqoJBo_55HbjMRU2/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-Download-0f766e?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download resume" /></a>
+      </p>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://github.com/Ankit24072002.png?size=480" width="250" alt="Ankit Kumar Singh profile photo" />
+      <p><em>Build · Learn · Improve · Repeat</em></p>
+      <p><img src="https://img.shields.io/badge/STATUS-Always%20Learning-0f766e?style=flat-square" alt="Always learning" /></p>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:0f766e,100:06b6d4&height=230&section=header&text=Ankit%20Kumar%20Singh&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Software%20Engineer&descAlignY=60&descSize=19&animation=fadeIn" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0FE6D6&center=true&vCenter=true&multiline=true&width=800&height=60&lines=Building+Full-Stack+Apps+%F0%9F%9A%80;Shipping+Practical+AI+Products+%F0%9F%A4%96;Turning+Ideas+Into+Reliable+Software+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
-
-# 👋 Hi, I'm Ankit Kumar Singh
-
-### Full-Stack Developer · AI Enthusiast · Software Engineer
-
-<p>
-  <strong>
-    I build modern full-stack applications, practical AI products,
-    and polished digital experiences.
-  </strong>
-</p>
-
-<p>
-  <a href="https://github.com/Ankit24072002">
-    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ankit-kumar-singh-905109319">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kumaranikant24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://drive.google.com/file/d/1l_xIWaEO0RbFKZcAIqoJBo_55HbjMRU2/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Resume-Download-0f766e?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Ankit24072002&label=PROFILE%20VIEWS&color=0f766e&style=flat-square" />
-
-<br/>
-
-<img src="https://img.shields.io/github/followers/Ankit24072002?label=Followers&style=social" />
-<img src="https://img.shields.io/github/stars/Ankit24072002?label=Stars&style=social" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f766e,100:06b6d4&height=3&width=100%" />
-
+  <img src="https://komarev.com/ghpvc/?username=Ankit24072002&label=PROFILE%20VIEWS&color=0f766e&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Ankit24072002?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Ankit24072002?label=Stars&style=social" alt="GitHub stars" />
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f766e,100:06b6d4&height=3&width=100%" alt="" />
 </div>
 
 ---
