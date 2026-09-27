@@ -530,7 +530,7 @@ Contributed to organizing and coordinating technical events and activities as pa
 
 <img src="https://raw.githubusercontent.com/Ankit24072002/Ankit24072002/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-<sub><i>(Snake animation activates automatically once the GitHub Action workflow is added to this profile repo)</i></sub>
+<sub><i>Updated automatically by GitHub Actions.</i></sub>
 
 </div>
 
