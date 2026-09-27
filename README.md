@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:0f766e,100:06b6d4&height=230&section=header&text=Ankit%20Kumar%20Singh&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Software%20Engineer&descAlignY=60&descSize=19&animation=fadeIn" width="100%" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0FE6D6&center=true&vCenter=true&multiline=true&width=800&height=60&lines=Building+Full-Stack+Apps+%F0%9F%9A%80;Shipping+Practical+AI+Products+%F0%9F%A4%96;Turning+Ideas+Into+Reliable+Software+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+
 # 👋 Hi, I'm Ankit Kumar Singh
 
 ### Full-Stack Developer · AI Enthusiast · Software Engineer
@@ -29,6 +31,13 @@
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Ankit24072002&label=PROFILE%20VIEWS&color=0f766e&style=flat-square" />
+
+<br/>
+
+<img src="https://img.shields.io/github/followers/Ankit24072002?label=Followers&style=social" />
+<img src="https://img.shields.io/github/stars/Ankit24072002?label=Stars&style=social" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f766e,100:06b6d4&height=3&width=100%" />
 
 </div>
 
@@ -60,6 +69,8 @@ I enjoy working across the complete development lifecycle — from designing int
 <div align="center">
 
 > **Build useful things. Keep the experience simple. Make the engineering reliable.**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,100:0f766e&height=3&width=100%" />
 
 </div>
 
@@ -194,6 +205,10 @@ I enjoy taking projects from **idea to deployable software**.
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,render" />
 
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f766e,100:06b6d4&height=3&width=100%" />
+
 </div>
 
 ---
@@ -203,6 +218,8 @@ I enjoy taking projects from **idea to deployable software**.
 <div align="center">
 
 ### Building products that solve practical problems.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,100:0f766e&height=2&width=60%" />
 
 </div>
 
@@ -495,6 +512,26 @@ Contributed to organizing and coordinating technical events and activities as pa
 
 <img src="https://streak-stats.demolab.com?user=Ankit24072002&hide_border=true&theme=transparent&ring=0f766e&fire=06b6d4&currStreakLabel=0f766e" />
 
+<br/><br/>
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ankit24072002&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" />
+
+<br/><br/>
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit24072002&theme=react-dark&hide_border=true&bg_color=00000000&color=0f766e&line=06b6d4&point=ffffff" width="100%" />
+
+<br/><br/>
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Ankit24072002/Ankit24072002/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<sub><i>(Snake animation activates automatically once the GitHub Action workflow is added to this profile repo)</i></sub>
+
 </div>
 
 ---
@@ -537,9 +574,9 @@ I'm interested in opportunities involving:
 
 <div align="center">
 
-`Full-Stack Development`  
-`Backend Engineering`  
-`Software Engineering`  
+`Full-Stack Development`  
+`Backend Engineering`  
+`Software Engineering`  
 `Applied AI`
 
 </div>
@@ -575,6 +612,8 @@ I'm open to **entry-level software engineering roles, internships, and meaningfu
 <br/>
 
 ### 💬 *Thoughtful interfaces. Reliable systems. Practical AI.*
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=64748B&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Let's+build+something+great+together+%F0%9F%9A%80" alt="Footer Typing SVG" />
 
 <br/>
 
