@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1892" height="792" viewBox="0 0 1892 792" role="img" aria-labelledby="title description">
+  <title id="title">Ankit Kumar Singh - Full-Stack Developer and AI Builder</title>
+  <desc id="description">A dark teal technology banner with a profile portrait, engineering roles, and the words Build, Learn, Improve, Repeat.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#071729" />
+      <stop offset="0.56" stop-color="#082b47" />
+      <stop offset="1" stop-color="#063b46" />
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#32e5dc" />
+      <stop offset="1" stop-color="#168eff" />
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#08799a" />
+      <stop offset="0.58" stop-color="#087f91" />
+      <stop offset="1" stop-color="#13c7c4" />
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop stop-color="#13c7e9" stop-opacity="0.28" />
+      <stop offset="1" stop-color="#13c7e9" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#28d5df" stroke-opacity="0.12" />
+    </pattern>
+    <clipPath id="portrait">
+      <path d="M1292 150Q1292 110 1332 110H1550Q1590 110 1590 150V610Q1590 650 1550 650H1332Q1292 650 1292 610Z" />
+    </clipPath>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="12" />
+    </filter>
+  </defs>
+
+  <rect width="1892" height="792" rx="8" fill="url(#background)" />
+  <rect width="1892" height="792" rx="8" fill="url(#grid)" />
+  <ellipse cx="1475" cy="370" rx="470" ry="430" fill="url(#halo)" />
+  <path d="M0 0H210Q155 58 85 29Q38 9 0 32Z" fill="#08b9c8" opacity="0.82" />
+
+  <g fill="none" stroke="#16b6c9" stroke-width="2" opacity="0.42">
+    <path d="M0 605H110L145 570H230L260 600H410" />
+    <path d="M0 645H185L220 610H300" />
+    <path d="M1585 78H1685L1715 108H1850" />
+    <path d="M1680 692H1740L1770 662H1892" />
+    <path d="M1060 530H1130L1160 500H1240" />
+  </g>
+  <g fill="#25d6e1" opacity="0.76">
+    <circle cx="145" cy="570" r="5" />
+    <circle cx="220" cy="610" r="5" />
+    <circle cx="1715" cy="108" r="5" />
+    <circle cx="1770" cy="662" r="5" />
+    <circle cx="1160" cy="500" r="5" />
+  </g>
+
+  <text x="72" y="66" fill="#36ddd9" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="7">&gt; WELCOME TO MY GITHUB PROFILE</text>
+  <text x="68" y="177" fill="#f8fbff" font-family="Arial, Helvetica, sans-serif" font-size="104" font-weight="700">Ankit Kumar</text>
+  <text x="68" y="270" fill="url(#name)" font-family="Arial, Helvetica, sans-serif" font-size="104" font-weight="700">Singh</text>
+  <path d="M445 270Q485 254 548 268" fill="none" stroke="#27dfe0" stroke-width="5" stroke-linecap="round" />
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#e6efff">
+    <g transform="translate(76 318)" fill="none" stroke="#26d8dc" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M16 0L0 14L16 28M30 0L46 14L30 28M27 5L19 23" />
+    </g>
+    <text x="140" y="339">Full-Stack Developer</text>
+    <path d="M417 311V347" stroke="#1a95ae" stroke-width="2" />
+    <g transform="translate(444 314)" fill="none" stroke="#27bde1" stroke-width="2.5">
+      <path d="M18 2C9 -2 5 4 7 10C1 12 3 21 9 22C10 29 18 29 21 24V7C21 4 20 3 18 2ZM24 2C33 -2 37 4 35 10C41 12 39 21 33 22C32 29 24 29 21 24V7C21 4 22 3 24 2Z" />
+      <path d="M11 11H17M25 11H31M11 19H17M25 19H31" />
+    </g>
+    <text x="499" y="339">AI Builder</text>
+    <path d="M625 311V347" stroke="#1a95ae" stroke-width="2" />
+    <g transform="translate(652 313)" fill="none" stroke="#26d8dc" stroke-width="2.5" stroke-linejoin="round">
+      <path d="M17 0L20 5L26 4L27 10L32 13L29 18L31 24L25 26L22 31L17 28L11 30L9 24L4 21L7 16L5 10L11 8L13 2Z" />
+      <circle cx="18" cy="16" r="5" />
+    </g>
+    <text x="704" y="339">Software Engineer</text>
+  </g>
+
+  <text x="74" y="394" fill="#dbe8f8" font-family="Arial, Helvetica, sans-serif" font-size="25">I build <tspan fill="#36c8ee" font-weight="700">modern</tspan> full-stack applications,</text>
+  <text x="74" y="431" fill="#dbe8f8" font-family="Arial, Helvetica, sans-serif" font-size="25"><tspan fill="#36c8ee" font-weight="700">practical AI products</tspan>, and polished user experiences.</text>
+
+  <g transform="translate(1028 136)">
+    <rect width="196" height="244" rx="22" fill="#071c31" fill-opacity="0.72" stroke="#078ba1" stroke-width="2" />
+    <text x="22" y="50" fill="#25dce0" font-family="Georgia, serif" font-size="58">&#8220;</text>
+    <g fill="#e0eaf8" font-family="Arial, Helvetica, sans-serif" font-size="25" font-style="italic">
+      <text x="43" y="86">Build</text>
+      <text x="43" y="125">Learn</text>
+      <text x="43" y="164">Improve</text>
+      <text x="43" y="203">Repeat</text>
+    </g>
+    <path d="M40 222Q83 202 124 214" fill="none" stroke="#24d9d7" stroke-width="4" stroke-linecap="round" />
+    <text x="141" y="224" fill="#25dce0" font-family="Georgia, serif" font-size="46">&#8221;</text>
+  </g>
+
+  <g transform="translate(1608 36)">
+    <rect width="236" height="44" rx="22" fill="#09233a" stroke="#087e99" stroke-width="2" />
+    <circle cx="23" cy="22" r="6" fill="#20d9d7" />
+    <text x="46" y="29" fill="#d9e8f7" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="2">ALWAYS LEARNING</text>
+  </g>
+
+  <circle cx="1441" cy="386" r="286" fill="none" stroke="#08a9c8" stroke-width="13" />
+  <circle cx="1441" cy="386" r="310" fill="none" stroke="#18c8d3" stroke-width="2" stroke-dasharray="4 14" opacity="0.7" />
+  <circle cx="1441" cy="386" r="279" fill="#0b6078" opacity="0.28" filter="url(#softGlow)" />
+  <image href="https://avatars.githubusercontent.com/u/205543760?s=600&amp;v=4" x="1270" y="105" width="342" height="550" preserveAspectRatio="xMidYMid slice" clip-path="url(#portrait)" />
+  <circle cx="1441" cy="386" r="5" fill="#28e4df" />
+
+  <g transform="translate(1788 155)" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <g fill="#08243a" stroke="#087c9c" stroke-width="2">
+      <rect width="72" height="72" rx="18" />
+      <rect y="126" width="72" height="72" rx="18" />
+      <rect y="252" width="72" height="72" rx="18" />
+    </g>
+    <g fill="none" stroke="#27dbe2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M36 17L50 25V43L36 51L22 43V25ZM22 25L36 33L50 25M36 33V51" />
+      <path d="M22 161Q38 137 55 137Q55 154 31 171L22 161ZM22 161L18 169L28 167M34 147L44 157" />
+      <path d="M22 295H51M27 291V280H33V291M37 291V273H43V291M47 291V266H53V291" />
+    </g>
+    <g fill="#d8e6f8" font-size="16">
+      <text y="96">IDEAS</text>
+      <text y="222">BUILD</text>
+      <text y="348">GROW</text>
+    </g>
+  </g>
+
+  <g fill="#24d7df" font-family="Georgia, serif" font-size="34" font-style="italic">
+    <text x="1714" y="566">Turning</text>
+    <text x="1714" y="611">Ideas into</text>
+    <text x="1714" y="656">Impact</text>
+  </g>
+  <path d="M1710 682Q1790 638 1864 653" fill="none" stroke="#26d8df" stroke-width="4" stroke-linecap="round" />
+
+  <path d="M0 670Q90 625 190 665T390 670T590 660T790 664T990 658T1190 668T1390 660T1590 665T1790 652T1892 661V792H0Z" fill="#087f91" fill-opacity="0.42" stroke="#11c4cb" stroke-opacity="0.78" stroke-width="2" />
+  <path d="M0 724Q105 680 220 714T440 720T660 707T880 712T1100 703T1320 716T1540 706T1760 715T1892 700V792H0Z" fill="#08799b" fill-opacity="0.68" stroke="#1399bd" stroke-width="2" />
+  <path d="M0 762Q100 726 205 751T415 758T625 748T835 752T1045 743T1255 754T1465 746T1675 753T1892 742V792H0Z" fill="#075675" fill-opacity="0.94" />
+  <g fill="#e0f3ff" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="5" opacity="0.88">
+    <text x="90" y="746">BUILD</text>
+    <circle cx="198" cy="740" r="3" fill="#21dbe0" />
+    <text x="230" y="746">LEARN</text>
+    <circle cx="347" cy="740" r="3" fill="#21dbe0" />
+    <text x="380" y="746">IMPROVE</text>
+    <circle cx="545" cy="740" r="3" fill="#21dbe0" />
+    <text x="578" y="746">REPEAT</text>
+  </g>
+</svg>

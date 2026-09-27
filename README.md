@@ -1,32 +1,19 @@
-<table>
-  <tr>
-    <td width="62%" valign="middle">
-      <p><strong>WELCOME TO MY GITHUB PROFILE</strong></p>
-      <h1>Hi, I'm Ankit Kumar Singh</h1>
-      <p><strong>Full-Stack Developer&nbsp; | &nbsp;AI Builder&nbsp; | &nbsp;Software Engineer</strong></p>
-      <p>I build modern full-stack applications, practical AI products, and polished digital experiences.</p>
-      <p>
-        <a href="https://github.com/Ankit24072002"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-        <a href="https://www.linkedin.com/in/ankit-kumar-singh-905109319"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-        <a href="mailto:kumaranikant24@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-        <a href="https://drive.google.com/file/d/1l_xIWaEO0RbFKZcAIqoJBo_55HbjMRU2/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-Download-0f766e?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download resume" /></a>
-      </p>
-    </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://github.com/Ankit24072002.png?size=480" width="250" alt="Ankit Kumar Singh profile photo" />
-      <p><em>Build · Learn · Improve · Repeat</em></p>
-      <p><img src="https://img.shields.io/badge/STATUS-Always%20Learning-0f766e?style=flat-square" alt="Always learning" /></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/profile-banner.svg" width="100%" alt="Ankit Kumar Singh, Full-Stack Developer, AI Builder, and Software Engineer" />
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Ankit24072002"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/ankit-kumar-singh-905109319"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kumaranikant24@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://drive.google.com/file/d/1l_xIWaEO0RbFKZcAIqoJBo_55HbjMRU2/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-Download-0f766e?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download resume" /></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ankit24072002&label=PROFILE%20VIEWS&color=0f766e&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Ankit24072002?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Ankit24072002?label=Stars&style=social" alt="GitHub stars" />
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f766e,100:06b6d4&height=3&width=100%" alt="" />
-</div>
+  <img src="https://img.shields.io/github/stars/Ankit24072002/Ankit24072002?label=Profile%20repo%20stars&style=flat-square" alt="Profile repository stars" />
+</p>
 
 ---
 
